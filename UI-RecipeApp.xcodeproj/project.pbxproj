@@ -27,6 +27,7 @@
 		A777A03924C3900000082AD4 /* HeadingProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingProfile.swift; sourceTree = "<group>"; };
 		A777A03C24C3904B00082AD4 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		A777A03E24C3907200082AD4 /* RecipesBundles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesBundles.swift; sourceTree = "<group>"; };
+		A777A04024C392C600082AD4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A7DAC28824C27B5B00732D4B /* UI-RecipeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI-RecipeApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7DAC28B24C27B5B00732D4B /* UI_RecipeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI_RecipeAppApp.swift; sourceTree = "<group>"; };
 		A7DAC28D24C27B5B00732D4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 		A7DAC27F24C27B5B00732D4B = {
 			isa = PBXGroup;
 			children = (
+				A777A04024C392C600082AD4 /* README.md */,
 				A7DAC28A24C27B5B00732D4B /* UI-RecipeApp */,
 				A7DAC28924C27B5B00732D4B /* Products */,
 			);
